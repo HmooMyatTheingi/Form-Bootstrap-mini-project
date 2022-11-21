@@ -1,0 +1,21 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size:small;
+    margin-top: 20px;
+
+}
+.form img{
+    height:600px;
+    object-fit: cover;
+    border-radius: 70px;
+}
+.footer{
+    font-size: small;
+}
+.title{
+    font-weight: bolder;
+}
